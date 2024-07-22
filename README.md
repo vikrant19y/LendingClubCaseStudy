@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> 
+> **TODO Background and problem statement**
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,14 +11,14 @@
 
 ## General Information
 1. [Problem Statement](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
-    - 1.1 Business Understanding 
-    - 1.2 Business Objective
+    - 1.1 Business Understanding **TODO add content**
+    - 1.2 Business Objective **TODO add content**
   
 2. [Data Acquisition](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
-    - 2.1 Loading the Data and information about it
+    - 2.1 Loading the Data and information about it **TODO add content**
   
 3. [Data Preparation](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
-    - 3.1 Data Cleaning
+    - 3.1 Data Cleaning **TODO add steps followed**
     - 3.2 Data Transformation
         - Data Formatting
         - Handling Outliers
