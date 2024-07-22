@@ -10,41 +10,28 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-### 1. Problem Statement
-#### 1.1 Business Understanding
+1. Problem Statement [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
+- 1.1 Business Understanding 
+- 1.2 Business Objective
+  
+2. Data Acquisition [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
+- 2.1 Loading the Data and information about it
+  
+3. Data Preparation [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
+  - 3.1 Data Cleaning
+  - 3.2 Data Transformation
+    - Data Formatting
+    - Handling Outliers
+    - Creating New Columns
 
-*A consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:​*
-- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
-- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
-- 
-#### 1.2 Business Objective
-***Minimize Credit Loss.*** ​
-- Identify and reduce the number of loans issued to high-risk applicants.​
-
-***Inprove Risk Assessment***
-- Utilize EDA to uncover patterns and consumer attributes that are strong indicators of default.​
-    
-***Strategic Loan Management.*** ​
-- Implement data-driven strategies to mitigate potential losses, thereby enhancing the company's financial stability. For example: Denying loans, Reducing loan amounts, Modifying interest rates and Adjusting loan term​
-
-### 2. Data Acquisition
-#### 2.1 Loading the Data and information about it
-### 3. Data Preparation
-#### 3.1 Data Cleaning
-#### 3.2 Data Transformation
-##### Data formating 
-##### Handling Outliers
-##### Creating New Columns
-### 4. Exploratory Data Analysis(EDA)
-#### 4.1 Univariate Analysis
-##### Categoriacal
-##### Numerical
-#### 4.2 Segmented Univariate Analysis
-#### 4.3 Bivariate Analysis
-#### 4.4 Multivariate Analysis
-#### 4.5 Statistical Analysis
-
-
+4. Exploratory Data Analysis(EDA) [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
+- 4.1 Univariate Analysis
+    - Categoriacal
+    - Numerical
+- 4.2 Segmented Univariate Analysis
+- 4.3 Bivariate Analysis
+- 4.4 Multivariate Analysis
+- 4.5 Statistical Analysis
 
 
 
