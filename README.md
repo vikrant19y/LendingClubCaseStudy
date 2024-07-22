@@ -10,28 +10,28 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-1. Problem Statement [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
-- 1.1 Business Understanding 
-- 1.2 Business Objective
+1. [Problem Statement](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
+    - 1.1 Business Understanding 
+    - 1.2 Business Objective
   
-2. Data Acquisition [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
-- 2.1 Loading the Data and information about it
+2. [Data Acquisition](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
+    - 2.1 Loading the Data and information about it
   
-3. Data Preparation [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
-  - 3.1 Data Cleaning
-  - 3.2 Data Transformation
-    - Data Formatting
-    - Handling Outliers
-    - Creating New Columns
+3. [Data Preparation](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
+    - 3.1 Data Cleaning
+    - 3.2 Data Transformation
+        - Data Formatting
+        - Handling Outliers
+        - Creating New Columns
 
-4. Exploratory Data Analysis(EDA) [https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb]
-- 4.1 Univariate Analysis
-    - Categoriacal
-    - Numerical
-- 4.2 Segmented Univariate Analysis
-- 4.3 Bivariate Analysis
-- 4.4 Multivariate Analysis
-- 4.5 Statistical Analysis
+4. [Exploratory Data Analysis(EDA)](https://github.com/vikrant19y/LendingClubCaseStudy/blob/main/Lending_Club_CaseStudy.ipynb)
+    - 4.1 Univariate Analysis
+        - Categoriacal
+        - Numerical
+    - 4.2 Segmented Univariate Analysis
+    - 4.3 Bivariate Analysis
+    - 4.4 Multivariate Analysis
+    - 4.5 Statistical Analysis
 
 
 
