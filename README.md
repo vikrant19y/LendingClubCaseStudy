@@ -52,7 +52,6 @@
 ## Summary
 1. Overall 14.5% loans were charged-off in the given dataset.
 2. There is an exponential increase in number of loans offered from year 2007 to 2011
-3. **TODO Add summary of credit loss and profit %**
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
