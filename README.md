@@ -94,8 +94,8 @@
 
 
 ## Authors 
-- [Chandra Sekhar Kommuri](@chandrakommuri)
-- [Vikrant Yadav](@vikrant19y)
+- [Chandra Sekhar Kommuri](https://github.com/chandrakommuri)
+- [Vikrant Yadav](https://github.com/vikrant19y)
 
 
 <!-- Optional -->
